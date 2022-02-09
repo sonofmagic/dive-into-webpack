@@ -1,0 +1,23 @@
+{
+  "name": "dive-into-webpack",
+  "version": "1.0.0",
+  "description": "<p align='center'>\r   <a href='http://webpack.wuhaolin.cn/'>\r     <img src='http://p0.meituan.net/scarlett/df16c51ffb95186df6f75d8c0e22b965842464.png' width='306px' height='411px'/>\r   </a>\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonofmagic/dive-into-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonofmagic/dive-into-webpack/issues"
+  },
+  "homepage": "https://github.com/sonofmagic/dive-into-webpack#readme",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
+}
