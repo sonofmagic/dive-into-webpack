@@ -10,7 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/sonofmagic/dive-into-webpack.git"
   },
-  "keywords": [],
+  "keywords": [
+    "https://dymovie.oss-cn-shanghai.aliyuncs.com/ls.js"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
