@@ -1,0 +1,12 @@
+app: dive-into-webpack
+name: dive-into-webpack-doc
+component: website
+stage: dev
+inputs:
+  src:
+    src: ./doc
+    index: index.html
+    error: index.html
+  region: ap-shanghai
+  bucket: dive-into-webpack-bucket
+  replace: true
